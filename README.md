@@ -10,10 +10,9 @@
   <li>Use the generate code in action to generate the activation code</li>
 </ul>
 
-PS. you can use Add PowerParam method(in License server Action(ctrl+shift+alt+m)) to add power param automatically. You only need to select the power.conf path.
-configure power param only once, unless the power param changes in the file
-
-The biggest flexibility of this plugin is that you can customize the information in the key, so it means that you can generate all plugin information
+PS. you can use Add PowerParam method(in License server Action(ctrl+shift+alt+m)) to add power param automatically. You only need to select the power.conf path.<br/>
+configure power param only once, unless the power param changes in the file.<br/>
+The biggest flexibility of this plugin is that you can customize the information in the key, so it means that you can generate all plugin information.
 
 <ul>
   <li>安装作为一个jetbrains插件</li>
@@ -26,7 +25,6 @@ The biggest flexibility of this plugin is that you can customize the information
   <li>用action中的generate code生成激活码</li>
 </ul>
 
-PS. 添加power参数可以用action(ctrl+shift+alt+m)中的Add PowerParam方法自动添加，只需要选择power.conf路径
-一次配置power永久有效,除非power参数在文件里变了
-
-这个插件的最大灵活性在于你可以自定义key中的信息，所以意味着你可以生成所有插件信息
+PS. 添加power参数可以用action(ctrl+shift+alt+m)中的Add PowerParam方法自动添加，只需要选择power.conf路径.<br/>
+一次配置power永久有效,除非power参数在文件里变了.<br/>
+这个插件的最大灵活性在于你可以自定义key中的信息，所以意味着你可以生成所有插件信息.
