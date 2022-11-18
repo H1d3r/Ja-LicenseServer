@@ -3,11 +3,11 @@
   <li>Install as a jetbrains plugin</li>
   <li>(Ignore if configured)Download<a href="https://gitee.com/ja-netfilter/ja-netfilter">ja-netfilter</a>,then configure javaagent to your ide vmOptions file.</li>
   <li>Open License server Action(ctrl+shift+alt+m or in Help Menu) to (important)[Add power param] (Ignore if configured)[add url,dns param],then restart ide.</li>
-  <li>License server: <a href="http://localhost:63320/">http://localhost:63320/</a></li>
+  <li>License server(port may change): <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>Default Config params index: <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>Port config in Registry(ctrl+alt+shift+/)</li>
-  <li>The paid plugin product code will be displayed in the Action (must be downloaded and installed), and this code can be configured according to the rules in <Code> Settings-> License Server-> Activity </code></li>
-  <li>Use the generate code in action to generate the activation code</li>
+  <li>The paid plugin product code will be displayed in the Action (must be downloaded and installed), and this code can be configured according to the rules in <code>Settings->License server->Activation Code</code></li>
+  <li>Use generate code in action to generate the activation code</li>
 </ul>
 
 PS. you can use Add PowerParam method(in License server Action(ctrl+shift+alt+m)) to add power param automatically. You only need to select the power.conf path.<br/>
