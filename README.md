@@ -1,4 +1,4 @@
-<h3>LicenseServer-intellij plugin</h3>
+<h3>LicenseServer</h3>
 <ul>
   <li>Install as a jetbrains plugin</li>
   <li>(Ignore if configured)Download<a href="https://gitee.com/ja-netfilter/ja-netfilter">ja-netfilter</a>,then configure javaagent to your ide vmOptions file.</li>
