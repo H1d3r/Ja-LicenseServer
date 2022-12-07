@@ -2,7 +2,8 @@
 <ul>
   <li>Install as a jetbrains plugin</li>
   <li>(Ignore if configured)Download<a href="https://gitee.com/ja-netfilter/ja-netfilter">ja-netfilter</a>,then configure javaagent to your ide vmOptions file.</li>
-  <li>Open License server Action(ctrl+shift+alt+m or in Help Menu) to (important)[Add power param] (Ignore if configured)[add url,dns param],then restart ide.</li>
+  <li>Open License server Action(ctrl+shift+alt+m or in Help Menu) to (important)[Add power param] (Ignore if configured)[add url,dns param]<br/>
+  you can use Add PowerParam method(in License server Action(ctrl+shift+alt+m)) to add power param automatically. You only need to select the power.conf path.then restart ide.</li>
   <li>License server(port may change): <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>Default Config params index: <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>Port config in Registry(ctrl+alt+shift+/)</li>
@@ -10,14 +11,15 @@
   <li>Use generate code in action to generate the activation code</li>
 </ul>
 
-PS. you can use Add PowerParam method(in License server Action(ctrl+shift+alt+m)) to add power param automatically. You only need to select the power.conf path.<br/>
+PS. 
 configure power param only once, unless the power param changes in the file.<br/>
 The biggest flexibility of this plugin is that you can customize the information in the key, so it means that you can generate all plugin information.
 
 <ul>
   <li>安装作为一个jetbrains插件</li>
   <li>(配置过可忽略)下载<a href="https://gitee.com/ja-netfilter/ja-netfilter">ja-netfilter</a>,然后配置javaagent到你的ide vmOptions文件.</li>
-  <li>打开License server Action(ctrl+shift+alt+m 或者在help菜单栏里) (重要)[添加power参数] (添加过可忽略)[url参数 dns参数] ,然后重启ide</li>
+  <li>打开License server Action(ctrl+shift+alt+m 或者在help菜单栏里) (重要)[添加power参数] (添加过可忽略)[url参数 dns参数]<br/>
+      添加power参数可以用action(ctrl+shift+alt+m)中的Add PowerParam方法自动添加，只需要选择power.conf文件路径(一般在ja-netfilter/config中).然后重启ide</li>
   <li>激活服务器地址(端口可能会变): <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>默认配置网页: <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>端口配置在Registry(ctrl+alt+shift+/)</li>
@@ -25,8 +27,7 @@ The biggest flexibility of this plugin is that you can customize the information
   <li>用action中的generate code生成激活码</li>
 </ul>
 
-PS. 添加power参数可以用action(ctrl+shift+alt+m)中的Add PowerParam方法自动添加，只需要选择power.conf路径.<br/>
-一次配置power永久有效,除非power参数在文件里变了.<br/>
+PS. 一次配置power永久有效,除非power参数在文件里变了.<br/>
 这个插件的最大灵活性在于你可以自定义key中的信息，所以意味着你可以生成所有插件信息.
 
 Rainbow brackets: <a href="https://github.com/Nasller/plugin-myagent/releases/tag/v1.0.0">My Plugin</a> <br/>
