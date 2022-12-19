@@ -2,13 +2,13 @@
 <ul>
   <li>Install as a jetbrains plugin</li>
   <li>(Ignore if configured)Download<a href="https://gitee.com/ja-netfilter/ja-netfilter">ja-netfilter</a>,then configure javaagent to your ide vmOptions file.</li>
-  <li>Open License server Action(ctrl+shift+alt+m or in Help Menu) to (important)[Add power param] (Ignore if configured)[add url,dns param]<br/>
+  <li>Open Init License server Action(ctrl+shift+alt+m or in Help Menu) to (important)[Add power param] (Ignore if configured)[add url,dns param]<br/>
   you can use Add PowerParam method(in License server Action(ctrl+shift+alt+m)) to add power param automatically. You only need to select the power.conf path.then restart ide.</li>
   <li>License server(port may change): <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>Default Config params index: <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>Port config in Registry(ctrl+alt+shift+/)</li>
   <li>The paid plugin product code will be displayed in the Action (must be downloaded and installed), and this code can be configured according to the rules in <code>Settings->License server->Activation Code</code></li>
-  <li>Use generate code in action to generate the activation code</li>
+  <li>Use generate code in action(Alt+m) to generate the activation code</li>
 </ul>
 
 PS. 
@@ -18,13 +18,13 @@ The biggest flexibility of this plugin is that you can customize the information
 <ul>
   <li>安装作为一个jetbrains插件</li>
   <li>(配置过可忽略)下载<a href="https://gitee.com/ja-netfilter/ja-netfilter">ja-netfilter</a>,然后配置javaagent到你的ide vmOptions文件.</li>
-  <li>打开License server Action(ctrl+shift+alt+m 或者在help菜单栏里) (重要)[添加power参数] (添加过可忽略)[url参数 dns参数]<br/>
+  <li>打开Init License server Action(ctrl+shift+alt+m 或者在help菜单栏里) (重要)[添加power参数] (添加过可忽略)[url参数 dns参数]<br/>
       添加power参数可以用action(ctrl+shift+alt+m)中的Add PowerParam方法自动添加，只需要选择power.conf文件路径(一般在ja-netfilter/config中).然后重启ide</li>
   <li>激活服务器地址(端口可能会变): <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>默认配置网页: <a href="http://localhost:63320/">http://localhost:63320/</a></li>
   <li>端口配置在Registry(ctrl+alt+shift+/)</li>
   <li>在action中会显示付费的product code(必须是已经下载安装了的插件),将这个code按照<code>Settings->License server->Activation Code</code>中的规则配置即可</li>
-  <li>用action中的generate code生成激活码</li>
+  <li>用action(Alt+m)中的generate code生成激活码</li>
 </ul>
 
 PS. 一次配置power永久有效,除非power参数在文件里变了.<br/>
