@@ -33,3 +33,39 @@ PS. 一次配置power永久有效,除非power参数在文件里变了.<br/>
 Rainbow brackets: <a href="https://github.com/Nasller/plugin-myagent/releases/tag/v1.0.0">My Plugin</a> <br/>
 Download jar then put it to ja-netfilter/plugin folder,Restart ide<br/>
 下载上面的项目放到ja-netfilter/plugin文件夹中,重启ide
+
+<h3>举个激活码激活的栗子🌰</h3>
+<ul>
+  <li>点击IDE编辑器顶部的help选项卡 选择证书服务器</li>
+  
+  ![image](https://user-images.githubusercontent.com/54784104/215252036-7ca84830-6652-43e4-8dd4-418b61ea6b56.png)
+  
+  
+  <li>证书服务器弹窗大概长这样</li>
+  
+  ![image](https://user-images.githubusercontent.com/54784104/215252228-df532d59-bf18-4a65-9d53-3645883c3536.png)
+  
+  
+  <li>PRAINBOWBRACKET 把这个配置到设置的product里面。（彩虹括号）</li>
+  
+  ![image](https://user-images.githubusercontent.com/54784104/215252351-69d155fd-34a1-499d-a9b3-8201f60c1371.png)
+  
+  
+  <li>然后再次打开证书服务器点Jetbrains Code。（复制许可证激活码）</li>
+  
+  ![image](https://user-images.githubusercontent.com/54784104/215252487-001a91de-4efc-4c06-a4df-5164d5560654.png)
+  
+  
+  <li>粘贴到插件许可证激活码框里</li>
+  
+  ![image](https://user-images.githubusercontent.com/54784104/215252624-22baca7f-5b3f-4a6b-b2c8-5117057c2b86.png)
+  
+  
+  <li>ojbk 再看相应的插件许可证信息，激活成功😎</li>
+  
+  ![image](https://user-images.githubusercontent.com/54784104/215252730-5cbae8ad-88e7-45cb-9185-a516501ece14.png)
+  
+  
+  <li>其余需要许可证激活的插件也是按上面方式操作激活（激活码方式）<br/>
+    只需配置完成所有需要激活的插件，复制一次许可证激活码即可用来激活所有的付费插件</li>
+</ul>
