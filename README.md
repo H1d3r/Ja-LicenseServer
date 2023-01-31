@@ -70,7 +70,7 @@ Download jar then put it to ja-netfilter/plugin folder,Restart ide<br/>
     只需配置完成所有需要激活的插件，复制一次许可证激活码即可用来激活所有的付费插件</li>
 </ul>
 
-jrebel插件
+jrebel插件<br/>
 如果激活出现NO LICENSE FOUND字样，重装jrebel插件 或者 找到plugins\jr-ide-idea\lib\jrebel6这个插件安装目录下，一般会有两个文件jrebel.jar，jrebel-backup.jar。删掉jrebel.jar。再修改jrebel-backup.jar为jrebel.jar，重启服务<br/>
 适配的版本为2022.4.2。我只在这个版本试过，其他版本未知<br/>
 如果还出现这个字样那就找我974776824。
