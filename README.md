@@ -31,8 +31,8 @@ PS. 一次配置power永久有效,除非power参数在文件里变了.<br/>
 这个插件的最大灵活性在于你可以自定义key中的信息，所以意味着你可以生成所有插件信息.
 
 Rainbow brackets: <a href="https://github.com/Nasller/plugin-myagent/releases/tag/v1.0.0">My Plugin</a> <br/>
-Download jar then put it to ja-netfilter/plugin folder,Restart ide<br/>
-下载上面的项目放到ja-netfilter/plugin文件夹中,重启ide
+Download jar then put it to ja-netfilter/plugins folder(or ja-netfilter/plugins-appName folder if you set javaagent like: "-javaagent:/path/to/ja-netfilter.jar=appName"),Restart ide<br/>
+下载上面的项目放到ja-netfilter/plugins文件夹中,重启ide(如果你是这么设置javaagent的: "-javaagent:/path/to/ja-netfilter.jar=appName" 那么插件目录为plugins-appName)
 
 <h3>举个激活码激活的栗子🌰</h3>
 <ul>
