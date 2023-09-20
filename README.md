@@ -29,3 +29,5 @@ The biggest flexibility of this plugin is that you can customize the information
 
 PS. 一次配置power永久有效,除非power参数在文件里变了.<br/>
 这个插件的最大灵活性在于你可以自定义key中的信息，所以意味着你可以生成所有插件信息.
+
+Tg: https://t.me/no_name_server
